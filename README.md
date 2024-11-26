@@ -17,7 +17,7 @@ Check out the live demo of the Language Translator App [here](https://languages-
 ## 📸 Project Preview
 Here's a sneak peek of the Language Translator App:
 
-![Project Preview](assets/Palindrome-Checker.png)
+![Project Preview](assets/Language-Translator.png)
 
 ## 🚀 Features
 - Allows users to translate text between multiple languages.
